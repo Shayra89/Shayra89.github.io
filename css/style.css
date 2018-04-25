@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	background-image: url(images/achieve.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1{
+	font-family: 'Merriweather', serif;
+	text-align: center;
+	color: #ffffff;
+	font-size: 40px;
+}
+
+h2 {
+	font-family: 'Merriweather', serif;
+	text-align: center;
+	color: #ffffff;
+	font-size: 25px;
+	padding-bottom: 20px;
+}
+
+.button {
+	background-color: #ad2b17;
+	border: none;
+	padding: 12px 28px;
+	font-size: 16px;
+	font-family: 'Merriweather', serif;
+	text-align: center;
+	color: #ffffff;
+	border-radius: 5px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
